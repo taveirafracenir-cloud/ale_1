@@ -122,3 +122,83 @@ JNIEXPORT void JNICALL
 Java_com_enzo_ui_NativeBridge_init(JNIEnv *env, jobject thiz) {
     globalBridge = (*env)->NewGlobalRef(env, thiz);
 }
+/**
+mar de defines
+*/
+#define ENZO_UI_RGB
+#define ENZO_UI_R
+#define ENZO_UI_G
+#define ENZO_UI_B
+#define ENZO_UI_TEXT
+#define ENZO_UI_FONT
+#define ENZO_UI_TITLE
+#define ENZO_UI_H1
+#define ENZO_UI_H2
+#define ENZO_UI_H3
+#define ENZO_UI_H4
+#define ENZO_UI_H5
+#define ENZO_UI_H6
+#define ENZO_UI_H7
+#define ENZO_UI_H8
+#define ENZO_UI_H9
+#define ENZO_UI_FONT_SANS_SERIF
+#define ENZO_UI_BUTTON
+#define ENZO_UI_BUTTON_ONCLICK
+#define ENZO_UI_3D
+#define ENZO_UI_2D
+#define ENZO_UI_1D
+#define ENZO_UI_PIXEL
+#define ENZO_UI_SIZE_DP
+#define ENZO_UI_SIZE_SP
+#define ENZO_UI_SIZE_CM
+#define ENZO_UI_BATERRY_MANAGER
+#define ENZO_UI_CENSURED
+#define ENZO_UI_PERSON_MAN
+#define ENZO_UI_PERSON_WOMAN
+#define ENZO_UI_PERSON_MAN_KID
+#define ENZO_UI_PERSON_WOMAN_KID
+#define ENZO_UI_MICROPHONE
+#define ENZO_UI_LUA_VERSION
+#define ENZO_UI_LUA_ENZOUI_API
+/**
+---
+
+🎵 Chico Butico Oficial – Letra Rimada 🎵
+
+Refrão:
+Chico Butico, tico tico tico,
+Chico Butico, tico tico no ritmo,
+Chico Butico, tico tico divertido,
+Chico Butico, todo mundo tá no vício!
+
+Verso 1:
+No quintal ele dança sem parar,
+Tico tico pra cá, tico tico pra lá,
+Todo mundo junta, ninguém quer ficar,
+Sem o Chico Butico pra animar!
+
+Refrão:
+Chico Butico, tico tico tico,
+Chico Butico, tico tico no ritmo,
+Chico Butico, tico tico divertido,
+Chico Butico, todo mundo tá no vício!
+
+Verso 2:
+Pula pra frente, tico tico no chão,
+Gira pra trás, com o coração,
+Ritmo pegando, todo mundo na mão,
+Chico Butico é pura diversão!
+
+Refrão Final:
+Chico Butico, tico tico tico,
+Chico Butico, tico tico no ritmo,
+Chico Butico, tico tico divertido,
+Chico Butico, é o rei do tico tico!
+
+
+---
+*/
+#define ENZO_UI_TEXTURE
+#define ENZO_UI_IMPORT
+#define ENZO_UI_EMOJI
+#define ENZO_UI_UTF_8
