@@ -1,7 +1,0 @@
-HOMEM ADULTO - VALORES RGB
-
-pele:   224,189,156
-cabelo: 50,32,22
-camisa: 30,144,255
-calca:  40,40,40
-sapato: 25,25,25
