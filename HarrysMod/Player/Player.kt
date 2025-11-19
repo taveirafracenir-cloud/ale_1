@@ -1,0 +1,16 @@
+data class playeryxz(
+  var x: Int,
+  var y: Int,
+  var z: Int,
+  var xx: Int,
+  var xy: Int,
+  var xz: Int,
+  var yx: Int,
+  var yy: Int,
+  var yz: Int,
+  var zx: Int,
+  var zy: Int,
+  var zz: Int,
+  var xyz: Int,
+  var zy: Int,
+  var z: Int
